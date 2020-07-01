@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/newsuk/times-components/main.7dc150e52522c399ca30.bundle.js",
+    "runtime~main.js": "/newsuk/times-components/runtime~main.7dc150e52522c399ca30.bundle.js",
+    "vendors~main.css": "/newsuk/times-components/static/css/vendors~main.f8f248a5.chunk.css",
+    "vendors~main.js": "/newsuk/times-components/vendors~main.7dc150e52522c399ca30.bundle.js",
+    "article-error.png": "/newsuk/times-components/62f15370f5a94fcaee9a291e51e4d2d0.png",
+    "iframe.html": "/newsuk/times-components/iframe.html",
+    "precache-manifest.2aa19bc0e7a459c198ecf23b285662af.js": "/newsuk/times-components/precache-manifest.2aa19bc0e7a459c198ecf23b285662af.js",
+    "service-worker.js": "/newsuk/times-components/service-worker.js",
+    "static/media/article-error.png": "/newsuk/times-components/static/media/article-error.0008d349.png"
+  }
+}
